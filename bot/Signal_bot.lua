@@ -266,7 +266,7 @@ function create_config( )
     },
     sudo_users = {180252366,214795464},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[👑 Signal Bot 👑
+    about_text = [[👑 TehranTG 👑
 An advanced administration bot based on TG-CLI written in Lua
 
 🔰 Github 🔰
